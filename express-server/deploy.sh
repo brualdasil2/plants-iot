@@ -1,4 +1,3 @@
-# git pull
 echo "STEP 1 :::: Copying .env"
 cp .env.prod .env
 echo "STEP 2 :::: Installing dependencies"
